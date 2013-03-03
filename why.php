@@ -15,9 +15,30 @@
   <?php require "app/views/common/header.php"; ?>
 
   <div>
-    <div class="container">欢迎！</div>
+    <div class="container">
+	  <h2>选择火龙果网络科技的八大理由</h2>
+	  <div>
+	  1.专业
+	  </div>
+
+	  <div>
+	  2.高效
+	  </div>
+
+	  <div>
+	  3.性价比
+	  </div>
+
+	  <div>
+	  4.服务
+	  </div>
+
+	  <div>
+		<a class="btn btn-large btn-danger" href=""><b>立刻获取服务</b></a>
+	  </div>
+	</div>
   </div>
 
-  <?php require "app/views/common/footer.php"; ?>
+  <?php require "app/views/common/footer.php"; ?>  
  </body>
 </html>
