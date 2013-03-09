@@ -1,1 +1,5 @@
 .top-nav li { float: left; }
+.tl { text-align: left; }
+.tr { text-align: right; }
+
+.price { border: #ddd 1px solid; }
