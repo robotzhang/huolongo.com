@@ -16,11 +16,11 @@
   <?php require_once "app/views/common/header.php"; ?>
 
   <div>
-    <div class="container">
-      <ul>
-        <li>文案1</li>
-        <li>案例1</li>
-        <li>案例2</li>
+    <div class="banner">
+      <ul class="unstyled">
+        <li class="get-price">
+            <div></div>
+        </li>
       </ul>
     </div>
     

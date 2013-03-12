@@ -3,3 +3,13 @@
 .tr { text-align: right; }
 
 .price { border: #ddd 1px solid; }
+
+.banner {  }
+.banner li { height: 400px; }
+.banner .get-price { background: url(../images/home/sky.jpg) center center; }
+
+.header {  }
+.logo { height: 80px; line-height: 80px; display: block; float: left; background: url(../images/huolongo.png) center center no-repeat; width: 342px; }
+.top-nav li { float: left; height: 80px; line-height: 80px; }
+.top-nav li a { color: #4D4D4D; font-size: 16px; padding: 0 10px; }
+.top-nav li a:hover { text-decoration: none; color: #FF6600; }
