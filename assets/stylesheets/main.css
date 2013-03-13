@@ -17,4 +17,10 @@
 .top-nav li { float: left; height: 80px; line-height: 80px; }
 .top-nav li a { color: #4D4D4D; font-size: 16px; padding: 0 10px; }
 .top-nav li a:hover { text-decoration: none; color: #FF6600; }
-.why-box { min-height: 220px; box-shadow: 0 1px 2px #B0B3B6; border-radius: 5px; padding: 20px; border-top: #E5E6E7 1px solid; }
+.why-box { min-height: 220px; padding-left: 35px;  }
+.why-box h4 { margin-top: 0; }
+.why-box small { font-size: 14px; }
+.personal { background: url(../images/home/localization_icon.png) no-repeat; }
+.productivity { background: url(../images/home/updates_icon.png) no-repeat; }
+.good-price { background: url(../images/home/support.png) no-repeat; }
+.security { background: url(../images/home/security.gif) no-repeat; }
