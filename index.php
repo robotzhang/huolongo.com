@@ -15,7 +15,7 @@
  <body>
   <?php require_once "app/views/common/header.php"; ?>
 
-  <div>
+  <div style="background-color: #F8FAFA;">
     <div class="banner">
       <ul class="unstyled">
         <li class="get-price">
@@ -24,8 +24,10 @@
       </ul>
     </div>
 
+    <div class="fs16 tc" style="color: #017EC1; font-size: 22px; margin: 20px 0; margin-top: 40px; "><span>突破</span>繁琐，让您的网站人见人爱</div>
+    <div class="line"></div>
+
     <div class="container">
-      <div class="fs16 tc" style="color: #017EC1; font-size: 22px; margin: 20px 0; "><span>突破</span>繁琐，让您的网站人见人爱</div>
       <div class="row">
         <div class="span3">
           <div class="why-box personal">
@@ -76,7 +78,9 @@
         </div>
       </div>
     </div>
-    
+
+    <div class="line"></div>
+
     <div class="container">
       <dl class="dl-horizontal">
         <dt>联系电话<dt>
@@ -87,6 +91,8 @@
         <dd>上海市闵行区莘松路380号6楼</dd>
       </dl>
     </div>
+
+    <div class="line"></div>
     
     <div class="container price">
 		<div class="row">
@@ -118,6 +124,8 @@
 		  </div>	
 		</div>
 	</div>
+
+    <div class="line"></div>
   </div>
   <?php require_once "app/views/common/footer.php"; ?>
  </body>

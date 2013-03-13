@@ -6,7 +6,8 @@
 .fs12 { font-size: 12px; }
 .fs16 { font-size: 16px; }
 
-.price { border: #ddd 1px solid; }
+.price {  }
+.line { border-top: #EAEBEB 1px solid; border-bottom: #FFF 1px solid; height: 0px; margin: 30px 0; }
 
 .banner {  }
 .banner li { height: 400px; }
