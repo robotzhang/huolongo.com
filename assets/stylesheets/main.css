@@ -1,6 +1,10 @@
 .top-nav li { float: left; }
 .tl { text-align: left; }
 .tr { text-align: right; }
+.tc { text-align: center; }
+
+.fs12 { font-size: 12px; }
+.fs16 { font-size: 16px; }
 
 .price { border: #ddd 1px solid; }
 
@@ -13,3 +17,4 @@
 .top-nav li { float: left; height: 80px; line-height: 80px; }
 .top-nav li a { color: #4D4D4D; font-size: 16px; padding: 0 10px; }
 .top-nav li a:hover { text-decoration: none; color: #FF6600; }
+.why-box { min-height: 220px; box-shadow: 0 1px 2px #B0B3B6; border-radius: 5px; padding: 20px; border-top: #E5E6E7 1px solid; }
