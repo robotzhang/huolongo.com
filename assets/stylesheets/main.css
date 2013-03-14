@@ -25,3 +25,8 @@
 .productivity { background: url(../images/home/updates_icon.png) no-repeat; }
 .good-price { background: url(../images/home/support.png) no-repeat; }
 .security { background: url(../images/home/security.gif) no-repeat; }
+.additional { font-size: 12px; }
+
+.price { width: 800px; }
+.short, .tall { width: 240px; float: left; border: #DADEE1 1px solid; border-radius: 5px; padding: 10px; height: 150px; }
+.tall { box-shadow: 0 1px 10px #B0B3B6; margin-top: -10px; height: 170px; }
