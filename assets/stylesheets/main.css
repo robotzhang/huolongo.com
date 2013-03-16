@@ -12,6 +12,7 @@
 .banner {  }
 .banner li { height: 400px; }
 .banner .get-price { background: url(../images/home/sky.jpg) center center; }
+.banner .get-cases { display: none; background: url(../images/home/coffee.jpg) center center; }
 
 .header {  }
 .logo { height: 80px; line-height: 80px; display: block; float: left; background: url(../images/huolongo.png) center center no-repeat; width: 342px; }

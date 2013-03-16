@@ -10,6 +10,7 @@
   <link href="http://lib.sinaapp.com/js/bootstrap/2.2.1/css/bootstrap-responsive.min.css" media="screen" rel="stylesheet" type="text/css">
   <link href="assets/stylesheets/main.css" media="screen" rel="stylesheet" type="text/css">
   <script src="http://lib.sinaapp.com/js/jquery/1.9.0/jquery.min.js"></script>
+  <script src="assets/javascripts/home.js"></script>
  </head>
 
  <body>
@@ -21,6 +22,9 @@
         <li class="get-price">
             <div></div>
         </li>
+          <li class="get-cases">
+              <div></div>
+          </li>
       </ul>
     </div>
 
