@@ -13,6 +13,9 @@
 .banner li { height: 400px; }
 .banner .get-price { background: url(../images/home/sky.jpg) center center; }
 .banner .get-cases { display: none; background: url(../images/home/coffee.jpg) center center; }
+.banner .dotted { position: absolute; margin-top: -30px; margin-left: 50%; }
+.banner .dotted a { background: url(../images/dotted.png) -13px 0; width: 13px; height: 13px; display: block; float: left; margin-left: 5px; }
+.banner .dotted .active { background-position: 0 0; }
 
 .header {  }
 .logo { height: 80px; line-height: 80px; display: block; float: left; background: url(../images/huolongo.png) center center no-repeat; width: 342px; }

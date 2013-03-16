@@ -26,6 +26,10 @@
               <div></div>
           </li>
       </ul>
+      <div class="dotted">
+          <a class="active" href="javascript:void(0);"></a>
+          <a href="javascript:void(0);"></a>
+      </div>
     </div>
 
     <div class="fs16 tc" style="color: #017EC1; font-size: 22px; margin: 20px 0; margin-top: 40px; "><span>突破</span>繁琐，让您的网站人见人爱</div>
