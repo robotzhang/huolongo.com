@@ -81,49 +81,59 @@
 
     <div class="line"></div>
 
-    <div class="container">
-      <dl class="dl-horizontal">
-        <dt>联系电话<dt>
-        <dd>13482285699</dd>
-        <dt>QQ<dt>
-        <dd>445679586</dd>
-        <dt>地址<dt>
-        <dd>上海市闵行区莘松路380号6楼</dd>
-      </dl>
+    <div class="container price">
+      <div class="short">
+          <h4>建站套餐：3800起</h4>
+          <ul>
+              <li>基于开源cms系统搭建</li>
+              <li>首页及3个内页风格设计</li>
+              <li>3次后续更改服务</li>
+          </ul>
+      </div>
+
+      <div class="tall">
+          <h4>定制套餐：8800起</h4>
+          <ul>
+              <li>基于现有成熟稳定系统定制</li>
+              <li>页面的专业个性化设计</li>
+              <li>8小时候内无限次修改</li>
+          </ul>
+      </div>
+
+      <div class="short">
+          <h4>完全定制套餐：面议</h4>
+          <ul>
+              <li>专业，富于经验的工程师全程按照你的需求打造</li>
+              <li>所有页面的独特设计</li>
+              <li>8小时候内无限次修改</li>
+          </ul>
+      </div>
     </div>
 
     <div class="line"></div>
-    
-    <div class="container price">
-        <div class="short">
-            <h4>建站套餐：3800起</h4>
-            <ul>
-                <li>基于开源cms系统搭建</li>
-                <li>首页及3个内页风格设计</li>
-                <li>3次后续更改服务</li>
-            </ul>
-        </div>
 
-        <div class="tall">
-            <h4>定制套餐：8800起</h4>
-            <ul>
-                <li>基于现有成熟稳定系统定制</li>
-                <li>页面的专业个性化设计</li>
-                <li>8小时候内无限次修改</li>
-            </ul>
-        </div>
+    <div class="container">
+      <div class="pull-left">
+          <dl class="dl-horizontal">
+              <dt>联系电话<dt>
+              <dd>13482285699</dd>
+              <dt>QQ<dt>
+              <dd>445679586</dd>
+              <dt>Email<dt>
+              <dd>contact@huolongo.com</dd>
+              <dt>地址<dt>
+              <dd>上海市闵行区莘松路380号6楼</dd>
+          </dl>
 
-        <div class="short">
-            <h4>完全定制套餐：面议</h4>
-            <ul>
-                <li>专业，富于经验的工程师全程按照你的需求打造</li>
-                <li>所有页面的独特设计</li>
-                <li>8小时候内无限次修改</li>
-            </ul>
-        </div>
-	</div>
-
-    <div class="line"></div>
+          <dl class="dl-horizontal">
+              <dt>7*24小时客服<dt>
+              <dd>13482285699</dd>
+          </dl>
+      </div>
+      <div class="pull-right">
+          <div class="map"></div>
+      </div>
+    </div>
   </div>
   <?php require_once "app/views/common/footer.php"; ?>
  </body>

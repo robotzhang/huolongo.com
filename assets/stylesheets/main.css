@@ -18,6 +18,9 @@
 .top-nav li { float: left; height: 80px; line-height: 80px; }
 .top-nav li a { color: #4D4D4D; font-size: 16px; padding: 0 10px; }
 .top-nav li a:hover { text-decoration: none; color: #FF6600; }
+.footer { padding: 20px 0; color: #777; font-size: 12px; }
+.footer a { color: #777; }
+
 .why-box { min-height: 220px; padding-left: 35px;  }
 .why-box h4 { margin-top: 0; }
 .why-box small { font-size: 14px; }
@@ -27,6 +30,9 @@
 .security { background: url(../images/home/security.gif) no-repeat; }
 .additional { font-size: 12px; }
 
-.price { width: 800px; }
+.price { width: 800px; margin: 80px auto; }
 .short, .tall { width: 240px; float: left; border: #DADEE1 1px solid; border-radius: 5px; padding: 10px; height: 150px; }
+.short li {  }
 .tall { box-shadow: 0 1px 10px #B0B3B6; margin-top: -10px; height: 170px; }
+
+.map { background: url(../images/home/map.jpg) center center; width: 555px; height: 353px; }
